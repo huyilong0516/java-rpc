@@ -24,6 +24,10 @@ public class Server extends ServerSocket{
         super(port);
     }
 
+    /**
+     * 添加服务监听 可以多监听
+     * @param service 服务实例
+     */
     public void addListener(Object service){
         if (service == null){
             return;
@@ -35,6 +39,10 @@ public class Server extends ServerSocket{
 
     }
 
+
+    /**
+     * 启动服务
+     */
     public void start(){
         Socket socket;
         try {
