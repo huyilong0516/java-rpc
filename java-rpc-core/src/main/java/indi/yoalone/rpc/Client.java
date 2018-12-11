@@ -4,7 +4,9 @@ import indi.yoalone.rpc.serialize.proxy.InvocationProxy;
 
 
 /**
- * Created by admin on 2018/12/11.
+ * @desc 消费端
+ * @author Yoalone<huyilong0516@aliyun.com>
+ * @since 2018-12-11 17:21:22
  */
 public class Client {
 

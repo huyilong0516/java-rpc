@@ -4,7 +4,9 @@ import java.io.Serializable;
 import java.lang.reflect.Method;
 
 /**
- * Created by admin on 2018/12/10.
+ * @desc 请求实体
+ * @author Yoalone<huyilong0516@aliyun.com>
+ * @since 2018-12-11 17:21:22
  */
 public class RequestBody implements Serializable{
 

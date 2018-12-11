@@ -6,7 +6,9 @@ import indi.yoalone.rpc.serialize.packet.ResponseBody;
 import java.io.IOException;
 
 /**
- * Created by admin on 2018/12/10.
+ * @desc 远程调用
+ * @author Yoalone<huyilong0516@aliyun.com>
+ * @since 2018-12-11 17:21:22
  */
 public interface Remote {
 

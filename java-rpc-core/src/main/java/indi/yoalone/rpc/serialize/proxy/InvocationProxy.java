@@ -14,7 +14,9 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**
- * Created by admin on 2018/12/11.
+ * @desc 请求代理
+ * @author Yoalone<huyilong0516@aliyun.com>
+ * @since 2018-12-11 17:21:22
  */
 public class InvocationProxy implements InvocationHandler {
 

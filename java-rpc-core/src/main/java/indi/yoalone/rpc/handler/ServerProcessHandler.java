@@ -12,7 +12,9 @@ import java.net.Socket;
 import static com.sun.deploy.util.ReflectionUtil.invoke;
 
 /**
- * Created by admin on 2018/12/11.
+ * @desc 线程分发处理实现
+ * @author Yoalone<huyilong0516@aliyun.com>
+ * @since 2018-12-11 17:21:22
  */
 public class ServerProcessHandler implements Runnable{
 
