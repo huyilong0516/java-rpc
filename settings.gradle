@@ -1,0 +1,6 @@
+rootProject.name = 'java-rpc'
+include 'java-rpc-api'
+include 'java-rpc-provider'
+include 'java-rpc-customer'
+include 'java-rpc-core'
+
